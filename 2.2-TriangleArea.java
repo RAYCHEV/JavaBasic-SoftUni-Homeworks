@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _2_TriangleArea_int {
+public class TriangleArea {
 	
 	public static void main(String[] args) {
 		
